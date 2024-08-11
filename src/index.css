@@ -1,0 +1,133 @@
+.card{
+    border: 1px solid rgb(82, 82, 82);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px red;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+    background-color: rgb(249, 249, 67);
+}
+
+.card .card-image{
+    max-width: 60%;
+    height: auto;
+    border-radius: 60%;
+}
+
+.card .card-title{
+    font-family:Arial, sans-serif;
+    margin: 0;
+    color: rgb(248, 9, 9);
+}
+.card .card-text{
+    font-family: Arial, sans-serif;
+    color: rgb(63, 63, 63);
+}
+
+.button{
+    background-color: rgb(243, 9, 9);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover{
+    color: yellow;
+    cursor: pointer;
+}
+
+.student{
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(247, 3, 3);
+    padding: 10px;
+    border: 3px solid rgb(255, 0, 0);
+    max-width: 300px;
+    background-color: rgb(251, 239, 104);
+}
+
+.card2{
+    border: 1px solid rgb(52, 49, 49);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(151, 251, 2);
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+    max-width: 250px;
+    display: inline-block;
+    background-color: rgb(251, 85, 251);
+}
+
+.card2 .card-image{
+    max-width: 60%;
+    height: auto;
+    border-radius: 60%;
+}
+
+.card2 .card-title{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0;
+    color: rgb(68, 255, 47);
+}
+
+.card2 .card-text{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(45, 42, 42)
+}
+
+.pirate{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(30, 255, 5);
+    padding: 10px;
+    border: 3px solid rgb(153, 255, 0);
+    max-width: 300px;
+    background-color: rgb(252, 114, 252);
+}
+
+.logged-in{
+    background-color: lightskyblue;
+    color: white;
+    font-size: 2.5em;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.un-logged{
+    background-color: red;
+    color: white;
+    font-size: 2.5em;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.Lheading{
+    background-color: yellow;
+    color: rgb(230, 41, 41);
+    max-width: 300px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.list-members li:hover{
+    color: hsla(24, 97%, 50%, 0.999);
+    cursor: pointer;
+}
+
+.button2{
+    background-color: hsl(123, 97%, 50%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
+
+.button2:hover{
+    color: rgb(245, 11, 245);
+    cursor: pointer;
+}
+
